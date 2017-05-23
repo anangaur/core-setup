@@ -36,7 +36,7 @@
     },
     {
         "Name": "Microsoft.NETCore.App",
-        "Description": "A set of .NET API's that are included in the default .NET Core application model.",
+        "Description": "Automatically referenced by the .NET Core SDK. Provides a set of .NET API's that are included in the default .NET Core application model.  ",
         "CommonTypes": [ ]
     },
     {
